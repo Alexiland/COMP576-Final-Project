@@ -2,3 +2,5 @@
 *.swp
 *.pyc
 *.pth
+experiments/dataset/train2014.zip
+experiments/dataset/val2014.zip
